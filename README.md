@@ -16,7 +16,7 @@ npm install spitchjs
 
 ## Usage
 
-The full API of this library can be found in [api.md](api.md).
+The full API of this library can be found in [api.md](https://github.com/Johnmiicheal/spitch.js/blob/main/api.md).
 
 <!-- prettier-ignore -->
 ```js
