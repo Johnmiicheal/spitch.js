@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.2 (2025-01-17)
+
+Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
+### Chores
+
+* **internal:** codegen related update ([#7](https://github.com/Johnmiicheal/spitch.js/issues/7)) ([c6cac1f](https://github.com/Johnmiicheal/spitch.js/commit/c6cac1f3f578a922b6b139232e49ca6f75458f1a))
+
 ## 0.1.0-alpha.1 (2025-01-14)
 
 Full Changelog: [v0.0.1-alpha.1...v0.1.0-alpha.1](https://github.com/Johnmiicheal/spitch.js/compare/v0.0.1-alpha.1...v0.1.0-alpha.1)
