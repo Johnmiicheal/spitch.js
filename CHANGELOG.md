@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.3 (2025-01-21)
+
+Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
+
+### Chores
+
+* **internal:** add test ([#10](https://github.com/Johnmiicheal/spitch.js/issues/10)) ([366537d](https://github.com/Johnmiicheal/spitch.js/commit/366537d1de0e229fa6295d6363e759a908f06563))
+
 ## 0.1.0-alpha.2 (2025-01-17)
 
 Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
