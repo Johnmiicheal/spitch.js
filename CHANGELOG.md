@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2025-02-05)
+
+Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
+
+### Features
+
+* **client:** send `X-Stainless-Timeout` header ([#13](https://github.com/Johnmiicheal/spitch.js/issues/13)) ([77600be](https://github.com/Johnmiicheal/spitch.js/commit/77600be513d6b7ff4d55c0eed9ff347145fd18f7))
+
 ## 0.1.0-alpha.3 (2025-01-21)
 
 Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
