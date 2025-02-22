@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2025-02-22)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Bug Fixes
+
+* **client:** fix export map for index exports ([#16](https://github.com/Johnmiicheal/spitch.js/issues/16)) ([335c421](https://github.com/Johnmiicheal/spitch.js/commit/335c4214eff0826c53680551b6b481cf290fa0eb))
+
+
+### Chores
+
+* **internal:** codegen related update ([#18](https://github.com/Johnmiicheal/spitch.js/issues/18)) ([b55f60e](https://github.com/Johnmiicheal/spitch.js/commit/b55f60e22e1229d772f3aa732a9ee49ca123f404))
+* **internal:** fix devcontainers setup ([#19](https://github.com/Johnmiicheal/spitch.js/issues/19)) ([a9496b5](https://github.com/Johnmiicheal/spitch.js/commit/a9496b55740df172617c7b81dc727e6aa7770678))
+
 ## 0.1.0-alpha.4 (2025-02-05)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
