@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2025-03-14)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Features
+
+* add SKIP_BREW env var to ./scripts/bootstrap ([#21](https://github.com/Johnmiicheal/spitch.js/issues/21)) ([d293318](https://github.com/Johnmiicheal/spitch.js/commit/d29331811787ae3ff1e05bd9b73f272770596e2f))
+* **client:** accept RFC6838 JSON content types ([#22](https://github.com/Johnmiicheal/spitch.js/issues/22)) ([d832ad3](https://github.com/Johnmiicheal/spitch.js/commit/d832ad3fb4465c7a345b0659b7329f8714a0035f))
+
+
+### Bug Fixes
+
+* **client:** fix export map for index exports ([#16](https://github.com/Johnmiicheal/spitch.js/issues/16)) ([335c421](https://github.com/Johnmiicheal/spitch.js/commit/335c4214eff0826c53680551b6b481cf290fa0eb))
+
+
+### Chores
+
+* **internal:** codegen related update ([#18](https://github.com/Johnmiicheal/spitch.js/issues/18)) ([b55f60e](https://github.com/Johnmiicheal/spitch.js/commit/b55f60e22e1229d772f3aa732a9ee49ca123f404))
+* **internal:** fix devcontainers setup ([#19](https://github.com/Johnmiicheal/spitch.js/issues/19)) ([a9496b5](https://github.com/Johnmiicheal/spitch.js/commit/a9496b55740df172617c7b81dc727e6aa7770678))
+* **internal:** remove extra empty newlines ([#23](https://github.com/Johnmiicheal/spitch.js/issues/23)) ([35a3ad7](https://github.com/Johnmiicheal/spitch.js/commit/35a3ad7ec8a0a0694bc580c4dcdcbf6aea985845))
+
+
+### Documentation
+
+* update URLs from stainlessapi.com to stainless.com ([#20](https://github.com/Johnmiicheal/spitch.js/issues/20)) ([f2aa4fb](https://github.com/Johnmiicheal/spitch.js/commit/f2aa4fb76b86bc7c025e26395b52689e73385e4c))
+
 ## 0.1.0-alpha.4 (2025-02-05)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
