@@ -1,2 +1,4 @@
 configured_endpoints: 4
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/spitch%2Fspitchjs-fd957032d3fecf459ff777349fe6adcd7fcd78aecbd623c7aee090a72ff85dd9.yml
+openapi_spec_hash: b7fe68b297b99d2221ca040e32a82ed8
+config_hash: 44fd8340e89c62fc6516e516854ffd2f
