@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.1.0-alpha.6 (2025-03-28)
+
+Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
+
+### Bug Fixes
+
+* avoid type error in certain environments ([#28](https://github.com/Johnmiicheal/spitch.js/issues/28)) ([1ac4c40](https://github.com/Johnmiicheal/spitch.js/commit/1ac4c4033f8077b3a759ced24acf6f1b6c4659dd))
+* **internal:** work around https://github.com/vercel/next.js/issues/76881 ([#29](https://github.com/Johnmiicheal/spitch.js/issues/29)) ([f846e8f](https://github.com/Johnmiicheal/spitch.js/commit/f846e8fe7dbcb12178b8abac429117ad0f973acc))
+
+
+### Chores
+
+* **exports:** cleaner resource index imports ([#25](https://github.com/Johnmiicheal/spitch.js/issues/25)) ([8212b4d](https://github.com/Johnmiicheal/spitch.js/commit/8212b4d3c537f475f896a669cf1e75d1a75b09e2))
+* **exports:** stop using path fallbacks ([#27](https://github.com/Johnmiicheal/spitch.js/issues/27)) ([89655e8](https://github.com/Johnmiicheal/spitch.js/commit/89655e8643ad39d3ca250eb0e36cfaa7312623f1))
+
 ## 0.1.0-alpha.5 (2025-03-14)
 
 Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
