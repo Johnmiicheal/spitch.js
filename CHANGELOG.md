@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.0-alpha.6 (2025-04-05)
+
+Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
+
+### Bug Fixes
+
+* **api:** improve type resolution when importing as a package ([#32](https://github.com/Johnmiicheal/spitch.js/issues/32)) ([feed347](https://github.com/Johnmiicheal/spitch.js/commit/feed347d798e6d7536bf2017f9fa4a2f6a979284))
+* avoid type error in certain environments ([#28](https://github.com/Johnmiicheal/spitch.js/issues/28)) ([1ac4c40](https://github.com/Johnmiicheal/spitch.js/commit/1ac4c4033f8077b3a759ced24acf6f1b6c4659dd))
+* **client:** send `X-Stainless-Timeout` in seconds ([#30](https://github.com/Johnmiicheal/spitch.js/issues/30)) ([f9a04ff](https://github.com/Johnmiicheal/spitch.js/commit/f9a04ff85053bc7fe59f2931ec161e598b05ad73))
+* **internal:** work around https://github.com/vercel/next.js/issues/76881 ([#29](https://github.com/Johnmiicheal/spitch.js/issues/29)) ([f846e8f](https://github.com/Johnmiicheal/spitch.js/commit/f846e8fe7dbcb12178b8abac429117ad0f973acc))
+* **mcp:** remove unused tools.ts ([#33](https://github.com/Johnmiicheal/spitch.js/issues/33)) ([9b02034](https://github.com/Johnmiicheal/spitch.js/commit/9b020343ef310e2bbce3b16b678d8241c7e2bab0))
+
+
+### Chores
+
+* **exports:** cleaner resource index imports ([#25](https://github.com/Johnmiicheal/spitch.js/issues/25)) ([8212b4d](https://github.com/Johnmiicheal/spitch.js/commit/8212b4d3c537f475f896a669cf1e75d1a75b09e2))
+* **exports:** stop using path fallbacks ([#27](https://github.com/Johnmiicheal/spitch.js/issues/27)) ([89655e8](https://github.com/Johnmiicheal/spitch.js/commit/89655e8643ad39d3ca250eb0e36cfaa7312623f1))
+* **internal:** add aliases for Record and Array ([#31](https://github.com/Johnmiicheal/spitch.js/issues/31)) ([9929f05](https://github.com/Johnmiicheal/spitch.js/commit/9929f051a6e334669d90521847daa25d79b55b53))
+
 ## 0.1.0-alpha.5 (2025-03-14)
 
 Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
