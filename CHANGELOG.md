@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2025-04-10)
+
+Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
+
+### Chores
+
+* **internal:** reduce CI branch coverage ([b24c53e](https://github.com/Johnmiicheal/spitch.js/commit/b24c53e3494f252bd040965c43ccd55a6a97f07f))
+* **internal:** upload builds and expand CI branch coverage ([da1f659](https://github.com/Johnmiicheal/spitch.js/commit/da1f6598bd945476254772484129ba1616f854b7))
+
 ## 0.1.0-alpha.6 (2025-04-05)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
