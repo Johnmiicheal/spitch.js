@@ -24,11 +24,7 @@ import Spitchjs from 'spitchjs';
 
 const client = new Spitchjs();
 
-async function main() {
-  const transcription = await client.transcriptions.create({ language: 'yo' });
-}
-
-main();
+const transcription = await client.transcriptions.create({ language: 'yo' });
 ```
 
 ### Request & Response types
@@ -41,12 +37,8 @@ import Spitchjs from 'spitchjs';
 
 const client = new Spitchjs();
 
-async function main() {
-  const params: Spitchjs.TranscriptionCreateParams = { language: 'yo' };
-  const transcription: unknown = await client.transcriptions.create(params);
-}
-
-main();
+const params: Spitchjs.TranscriptionCreateParams = { language: 'yo' };
+const transcription: unknown = await client.transcriptions.create(params);
 ```
 
 Documentation for each method, request param, and response field are available in docstrings and will appear on hover in most modern editors.
@@ -95,19 +87,15 @@ a subclass of `APIError` will be thrown:
 
 <!-- prettier-ignore -->
 ```ts
-async function main() {
-  const transcription = await client.transcriptions.create({ language: 'yo' }).catch(async (err) => {
-    if (err instanceof Spitchjs.APIError) {
-      console.log(err.status); // 400
-      console.log(err.name); // BadRequestError
-      console.log(err.headers); // {server: 'nginx', ...}
-    } else {
-      throw err;
-    }
-  });
-}
-
-main();
+const transcription = await client.transcriptions.create({ language: 'yo' }).catch(async (err) => {
+  if (err instanceof Spitchjs.APIError) {
+    console.log(err.status); // 400
+    console.log(err.name); // BadRequestError
+    console.log(err.headers); // {server: 'nginx', ...}
+  } else {
+    throw err;
+  }
+});
 ```
 
 Error codes are as follows:
