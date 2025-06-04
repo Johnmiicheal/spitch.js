@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2025-06-04)
+
+Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
+
+### Chores
+
+* **ci:** add timeout thresholds for CI jobs ([14aa7ef](https://github.com/Johnmiicheal/spitch.js/commit/14aa7ef490303a5d1a5330468891454601d42eb4))
+* **ci:** bump node version for release workflows ([692ad8f](https://github.com/Johnmiicheal/spitch.js/commit/692ad8fb35a8356c0916095124411816e7a98ce4))
+* **ci:** only use depot for staging repos ([abb297e](https://github.com/Johnmiicheal/spitch.js/commit/abb297e887b6093d8faf77c81f5759540a139685))
+* **client:** minor internal fixes ([0858695](https://github.com/Johnmiicheal/spitch.js/commit/085869551ac3a3f6505cca1aff09fa34d47f7879))
+* **docs:** grammar improvements ([04750af](https://github.com/Johnmiicheal/spitch.js/commit/04750af15c0816ebd0501a99c1c0628837b958c7))
+* **docs:** use top-level-await in example snippets ([12efd22](https://github.com/Johnmiicheal/spitch.js/commit/12efd22bd26cdc900064e4b59d2354bb6b7e500e))
+* improve publish-npm script --latest tag logic ([2a2cd8e](https://github.com/Johnmiicheal/spitch.js/commit/2a2cd8eaff10a2a8cb8d80f048a79398e84cf33e))
+* **internal:** codegen related update ([fa34009](https://github.com/Johnmiicheal/spitch.js/commit/fa3400937801458466423727ee4afd44afd059ee))
+* **internal:** reduce CI branch coverage ([b24c53e](https://github.com/Johnmiicheal/spitch.js/commit/b24c53e3494f252bd040965c43ccd55a6a97f07f))
+* **internal:** upload builds and expand CI branch coverage ([da1f659](https://github.com/Johnmiicheal/spitch.js/commit/da1f6598bd945476254772484129ba1616f854b7))
+
+
+### Documentation
+
+* **readme:** fix typo ([42ec9b4](https://github.com/Johnmiicheal/spitch.js/commit/42ec9b44499b2446e8e96cdd8a0705545062b180))
+
 ## 0.1.0-alpha.6 (2025-04-05)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
