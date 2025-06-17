@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.0-alpha.8 (2025-06-17)
+
+Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
+
+### Features
+
+* **client:** add support for endpoint-specific base URLs ([21cb1c4](https://github.com/Johnmiicheal/spitch.js/commit/21cb1c4ab575a902218b40924b9d89b908ffe8fa))
+
+
+### Bug Fixes
+
+* publish script — handle NPM errors correctly ([f16a4b4](https://github.com/Johnmiicheal/spitch.js/commit/f16a4b44f889dde7f3ed07d44797e1baaf9f4c2b))
+
+
+### Chores
+
+* **ci:** enable for pull requests ([d25a874](https://github.com/Johnmiicheal/spitch.js/commit/d25a874937471c5ca39d5efab29a12ec976a83cf))
+* **internal:** make base APIResource abstract ([92c6227](https://github.com/Johnmiicheal/spitch.js/commit/92c6227fa999304099da9e294f3f31fd86d36902))
+
 ## 0.1.0-alpha.7 (2025-06-04)
 
 Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
