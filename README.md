@@ -22,7 +22,9 @@ The full API of this library can be found in [api.md](https://github.com/Johnmii
 ```js
 import Spitchjs from 'spitchjs';
 
-const client = new Spitchjs();
+const client = new Spitchjs({
+  apiKey: process.env['SPI_TCH_API_KEY'], // This is the default and can be omitted
+});
 
 const transcription = await client.transcriptions.create({ language: 'yo' });
 ```
@@ -35,7 +37,9 @@ This library includes TypeScript definitions for all request params and response
 ```ts
 import Spitchjs from 'spitchjs';
 
-const client = new Spitchjs();
+const client = new Spitchjs({
+  apiKey: process.env['SPI_TCH_API_KEY'], // This is the default and can be omitted
+});
 
 const params: Spitchjs.TranscriptionCreateParams = { language: 'yo' };
 const transcription: unknown = await client.transcriptions.create(params);
