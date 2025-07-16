@@ -1,5 +1,26 @@
 # Changelog
 
+## 0.1.0-alpha.9 (2025-07-15)
+
+Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
+
+### Features
+
+* clean up environment call outs ([4210498](https://github.com/Johnmiicheal/spitch.js/commit/4210498ddd03c7f270c13620b8e3b05d3f53164c))
+
+
+### Bug Fixes
+
+* **ci:** release-doctor — report correct token name ([c3b97d6](https://github.com/Johnmiicheal/spitch.js/commit/c3b97d6defc9de550a5fdec4bef16807cfd9f29f))
+* **client:** don't send `Content-Type` for bodyless methods ([f02514c](https://github.com/Johnmiicheal/spitch.js/commit/f02514c3ee4dc2bc5be81eb3d984d61476c71402))
+
+
+### Chores
+
+* **ci:** only run for pushes and fork pull requests ([5812d40](https://github.com/Johnmiicheal/spitch.js/commit/5812d401fedef7fb7847d44fe5f5985a0777e3a6))
+* make some internal functions async ([b48a2ce](https://github.com/Johnmiicheal/spitch.js/commit/b48a2ce952c30bb1f2149e368d9d450d3db0121a))
+* mention unit type in timeout docs ([138ad3c](https://github.com/Johnmiicheal/spitch.js/commit/138ad3ca9efe7adb214fbf6f848280e1e2b9e8db))
+
 ## 0.1.0-alpha.8 (2025-06-17)
 
 Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
