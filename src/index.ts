@@ -182,6 +182,7 @@ Spitchjs.Speech = Speech;
 Spitchjs.Transcriptions = Transcriptions;
 Spitchjs.Translate = Translate;
 Spitchjs.Diacritics = Diacritics;
+
 export declare namespace Spitchjs {
   export type RequestOptions = Core.RequestOptions;
 
