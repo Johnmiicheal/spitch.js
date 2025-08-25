@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.10 (2025-08-23)
+
+Full Changelog: [v0.1.0-alpha.9...v0.1.0-alpha.10](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.9...v0.1.0-alpha.10)
+
+### Chores
+
+* **deps:** update dependency node-fetch to v2.6.13 ([f2ef200](https://github.com/Johnmiicheal/spitch.js/commit/f2ef200b51cd4a79c7063e85af61100fdf10ffc6))
+* **internal:** formatting change ([9dc8052](https://github.com/Johnmiicheal/spitch.js/commit/9dc805298229eb8f5a707d0c3ff0939446039667))
+* **internal:** move publish config ([7bc3dca](https://github.com/Johnmiicheal/spitch.js/commit/7bc3dca9297215e4af33b331a4376720aef967bc))
+* **internal:** remove redundant imports config ([765d97f](https://github.com/Johnmiicheal/spitch.js/commit/765d97f7841b4703987dad9c7ecc0fd63cabf90a))
+* **internal:** update comment in script ([888d849](https://github.com/Johnmiicheal/spitch.js/commit/888d84933cdaa7e75fa43366918c09c1bdb33f46))
+* update @stainless-api/prism-cli to v5.15.0 ([5f118b0](https://github.com/Johnmiicheal/spitch.js/commit/5f118b0ffa8660db4d5fcf5f723259a645327fde))
+* update CI script ([e07f1b0](https://github.com/Johnmiicheal/spitch.js/commit/e07f1b09f16bca2c5f7f06df9966c645f697d4e9))
+
 ## 0.1.0-alpha.9 (2025-07-15)
 
 Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
