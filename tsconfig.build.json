@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "spitchjs/*": ["dist/src/*"],
-      "spitchjs": ["dist/src/index.ts"],
+      "spitchjs/*": ["./dist/src/*"],
+      "spitchjs": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,
