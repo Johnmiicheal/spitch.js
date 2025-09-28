@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.1.0-alpha.11 (2025-09-27)
+
+Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
+
+### Bug Fixes
+
+* coerce nullable values to undefined ([8161ada](https://github.com/Johnmiicheal/spitch.js/commit/8161ada868696881a461e1e1d61c6a68187aa32c))
+
+
+### Performance Improvements
+
+* faster formatting ([707a99e](https://github.com/Johnmiicheal/spitch.js/commit/707a99e32c583116fdc54e2e63a8478d35a4ae0a))
+
+
+### Chores
+
+* ci build action ([a833866](https://github.com/Johnmiicheal/spitch.js/commit/a83386611f61d17ab8147a5baedb72bb4224515f))
+* do not install brew dependencies in ./scripts/bootstrap by default ([2c99a25](https://github.com/Johnmiicheal/spitch.js/commit/2c99a25c1d7b8657595328ace2a6ca103e3931ec))
+* **internal:** codegen related update ([2252cdb](https://github.com/Johnmiicheal/spitch.js/commit/2252cdb1a564a7a9ae1a1fa44a285fb16d445771))
+* **internal:** fix incremental formatting in some cases ([dbc7054](https://github.com/Johnmiicheal/spitch.js/commit/dbc7054dd0b7e57218b5bcf76416f5d0f9cc042d))
+* **internal:** ignore .eslintcache ([847b310](https://github.com/Johnmiicheal/spitch.js/commit/847b310b8a0008b3885fb76f2fcc2ab45ee18d10))
+* **internal:** remove deprecated `compilerOptions.baseUrl` from tsconfig.json ([b4aec73](https://github.com/Johnmiicheal/spitch.js/commit/b4aec732823f78cb11aa0265271a59fd6111eb85))
+
 ## 0.1.0-alpha.10 (2025-08-23)
 
 Full Changelog: [v0.1.0-alpha.9...v0.1.0-alpha.10](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.9...v0.1.0-alpha.10)
