@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.12 (2025-10-07)
+
+Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
+
+### Chores
+
+* **internal:** remove .eslintcache ([d8b9228](https://github.com/Johnmiicheal/spitch.js/commit/d8b92283e6f62937472c19f3a5be8c0c3288ff9f))
+* **internal:** use npm pack for build uploads ([872248a](https://github.com/Johnmiicheal/spitch.js/commit/872248ae28dc1265f03f1f5c5f52060ff22dfc1b))
+
 ## 0.1.0-alpha.11 (2025-09-27)
 
 Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/Johnmiicheal/spitch.js/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
